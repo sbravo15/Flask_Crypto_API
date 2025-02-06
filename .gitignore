@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+__pycache__/
+
+# Logs & cache
+logs/
+*.log
+.cache/
+.flaskenv
+
+# Ignore IDE settings
+.vscode/
+.idea/
+*.iml
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
+*.pyd
